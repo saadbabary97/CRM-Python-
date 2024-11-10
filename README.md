@@ -27,6 +27,6 @@
   <img width="660" height="300" src="static/screenshots/d.png">
 </p>
 
-**Copyright (c)** 2020-3020 Md. Omar Faruk
+**Copyright (c)** 2020-3020 SRB
 
 ## Go Through This Site Then You Will Know About This Site Properly.
